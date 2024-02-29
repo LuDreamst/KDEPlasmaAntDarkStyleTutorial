@@ -22,15 +22,15 @@ Tips: Some settings have been deprecated or changed due to version changes, and 
 ## 1.2 Window Managment Settings  
 ### 1.2.1 Window Behavior Settings  
    Advanced --> Window placement --> `Centered`  
-   Then click `Applay`;
+   Then click `Apply`;
 ### 1.2.2 Task Switcher Settings  
    Main --> Visualization --> `Breeze` to `Large Icons`  
    Main --> Content --> `Include "Show Desktop" icon` &#x2714;  
-   Then click `apply`;
+   Then click `Apply`;
 ### 1.2.3 KWin Scripts Settings
    click `Get New Scripts`, search and install `Latte Window Colors`, `Latte Activate Launcher Meun`, `Force Blur` and `Force Decorations for GTK+3`  
    apply `Activate Latte Launcher Menu`, `Desktop Change OSD`, `Force Blur`, `Force Decorations for GTK+3`, `Latte Window Colors`  
-   Then click `apply`.  
+   Then click `Apply`.  
 # 2. Install and Config theme, icon  
 You can try this install.sh to help you install all customization files automatically.  
 # 3. Apply theme, icons  
