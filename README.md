@@ -28,16 +28,16 @@ Tips: Some settings have been deprecated or changed due to version changes, and 
    Main --> Content --> `Include "Show Desktop" icon` &#x2714;  
    Then click `Apply`;
 ### 1.2.3 KWin Scripts Settings
-   click `Get New Scripts`, search and install `Latte Window Colors`, `Latte Activate Launcher Meun`, `Force Blur` and `Force Decorations for GTK+3`  
-   apply `Activate Latte Launcher Menu`, `Desktop Change OSD`, `Force Blur`, `Force Decorations for GTK+3`, `Latte Window Colors`  
+   Click `Get New Scripts`, search and install `Latte Window Colors`, `Latte Activate Launcher Meun`, `Force Blur` and `Force Decorations for GTK+3`  
+   `Activate Latte Launcher Menu`&#x2714;, `Desktop Change OSD`&#x2714;, `Force Blur`&#x2714;, `Force Decorations for GTK+3`&#x2714;, `Latte Window Colors`&#x2714;  
    Then click `Apply`.  
 # 2. Install and Config theme, icon  
-You can try this install.sh to help you install all customization files automatically.  
+   You can try this install.sh to help you install all customization files automatically.  
 # 3. Apply theme, icons  
 ## 3.1 Change a wallpaper which you like
    Right click on the desktop, select a wallpaper and click `Apply`  
 ## 3.2 Switch Settings view  
-   Settings --> the Settings button --> `Switch to Icon View`  
+   Settings --> the Settings button near by the search bar --> `Switch to Icon View`  
 ## 3.3 Appearance Application  
    Settings --> Appearance --> Global Theme --> `Ant-Dark`  
    Settings --> Appearance --> Plasma Style --> `Ant-Dark`  
@@ -59,16 +59,16 @@ You can try this install.sh to help you install all customization files automati
    ```
    yay -S lightly lightlyshaders
    ```    
-   In all, you can choose a package manager you like.  
+   Anyway, you can choose a package manager you like.  
    But there will be a error while installing lightlyshaders, you may have to pass it.  
    You can find more information about packages on [AUR](https://aur.archlinux.org/packages)  
 ## 4.2 Config Lightly and LightlyShaders  
-   Settings --> Appearance --> Application Style --> `Lightly`  
    Settings --> Appearance --> Application Style --> Configure GNOME/GTK Application Style --> `Ant-Dark`  
+   Settings --> Appearance --> Application Style --> `Lightly`  
    And config lightly:  
    General --> `Draw highlight on active tab` &#x2714;  
    General --> `Corner radius` --> `5px`  
-   Then adjust `Transparency` Watch more detail in the tutorial video  
+   Then adjust `Transparency` (Watch more detail in the tutorial video)  
 # 5. Install Plasmoids Widgets  
    ```
    yay -S plasma5-applets-virtual-desktop-bar-git plasma5-applets-window-appmenu plasma5-applets-panon
