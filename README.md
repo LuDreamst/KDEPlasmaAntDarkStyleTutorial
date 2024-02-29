@@ -2,7 +2,7 @@ This is a tutorial about KDEPlasmaAntDarkStyle including an install.sh
 
 Forgive me that I can't describe all things exactly with just words. You can watch the tutorial [video](https://www.youtube.com/watch?v=KH-VC_wWI1M) by [LinuxScoop](https://github.com/linuxscoop)   
   
-Tips: Some Settings have been deprecated or changed due to version changes, and you don't need to stick to the book.  
+Tips: Some settings have been deprecated or changed due to version changes, and you don't need to stick to the book.  
 ## *Appreciation: [@LinuxScoop](https://github.com/linuxscoop), [vinceliuice(Vince)](https://github.com/vinceliuice), [Fausto-Korpsvart](https://github.com/Fausto-Korpsvart), [EliverLara](https://github.com/EliverLara) and other developers who I don't know their names* ##
   
 # 1. Initial Setup(Workspace Behavior Settings)  
