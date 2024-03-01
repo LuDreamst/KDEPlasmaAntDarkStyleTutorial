@@ -91,7 +91,9 @@ P.S. You should set Latte-Dock as autostart
    Konsole --> Settings --> Manage Profiles --> set `ant-dark-konsole-zsh` as default  
 # 9. Firefox Customization  
    You can find whole files and usage on [WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-kde)   
-
+# 10. Review  
+![image](https://github.com/LuDreamst/KDEPlasmaAntDarkStyleTutorial/assets/53106447/2a0358c7-80c2-4217-ab23-8f4da36e00c8)
+  
 # HOPE YOU ENJOY IT! :smile:  
 
    
