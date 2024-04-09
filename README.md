@@ -5,7 +5,7 @@ Forgive me that I can't describe all things exactly with just words. You can wat
 Tips: Some settings have been deprecated or changed due to version changes, and you don't need to stick to the book.  
 ## *Appreciation: [@LinuxScoop](https://github.com/linuxscoop), [vinceliuice(Vince)](https://github.com/vinceliuice), [Fausto-Korpsvart](https://github.com/Fausto-Korpsvart), [EliverLara](https://github.com/EliverLara) and other developers and designers who I don't know their names* ##
   
-# 1. Initial Setup(Workspace Behavior Settings)  
+# 1. Initial Setup  
 ## 1.1 Workspacce Behavior Settings  
 ### 1.1.1 Desktop Effects Settings  
    Settings --> Workspace --> Workspace Behavior --> Desktop Effects --> Appearance --> `Background contrast` &#x2714;  
@@ -32,7 +32,7 @@ Tips: Some settings have been deprecated or changed due to version changes, and 
    `Activate Latte Launcher Menu`&#x2714;, `Desktop Change OSD`&#x2714;, `Force Blur`&#x2714;, `Force Decorations for GTK+3`&#x2714;, `Latte Window Colors`&#x2714;  
    Then click `Apply`.  
 # 2. Install and Config theme, icon  
-   You can try this install.sh to help you install all customization files automatically.  
+   You can try this [install.sh](install.sh) to help you install all customization files automatically.  
 # 3. Apply theme, icons  
 ## 3.1 Change a wallpaper which you like
    Right click on the desktop, select a wallpaper and click `Apply`  
